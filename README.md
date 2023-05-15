@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KoichiYanagisawa</h1>
 
-h3 align="left">About me:</h3>
+<h3 align="left">About me:</h3>
 <p align="left">
 - 👨‍💻 I am currently looking for a job.
 - 🌱 I am a first term student of Mr. [Kiyoto Yamaura's](https://github.com/kiyodori) Apprentice.
