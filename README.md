@@ -7,5 +7,5 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoichiYanagisawa&layout=compact&show_icons=true&theme=midnight-purple" />
 </p>
 
-# Qiita:
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/yanagiii/posts.svg)](http://qiita.com/yanagiii)
+![](https://komarev.com/ghpvc/?username=KoichiYanagisawa)
