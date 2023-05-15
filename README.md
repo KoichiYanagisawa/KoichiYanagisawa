@@ -2,7 +2,7 @@
 - 👨‍💻 I am currently looking for a job.
 - 🌱 I am a first term student of Mr. [Kiyoto Yamaura's](https://github.com/kiyodori) Apprentice.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoichiYanagisawa&show_icons=true&layout=compact&theme=midnight-purple
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoichiYanagisawa&show_icons=true&theme=midnight-purple
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
