@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 👨‍💻 I am currently looking for a job.
+- 🌱 I am a first term student of Mr. [Kiyoto Yamaura's](https://github.com/kiyodori) Apprentice.
 <!--
 **KoichiYanagisawa/KoichiYanagisawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
