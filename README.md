@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KoichiYanagisawa</h1>
+<h1 align="center">Hi 👋, I'm Koichi Yanagisawa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koichiyanagisawa&label=Profile%20views&color=0e75b6&style=flat" alt="koichiyanagisawa" /> </p>
 
 <h3 align="left">About me:</h3>
