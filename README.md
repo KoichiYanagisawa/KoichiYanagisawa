@@ -1,15 +1,3 @@
-### Hi there 👋
-- 👨‍💻 I am currently looking for a job.
-- 🌱 I am a first term student of Mr. [Kiyoto Yamaura's](https://github.com/kiyodori) Apprentice.
-
-<p align="left">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KoichiYanagisawa&theme=midnight-purple&show_icons=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoichiYanagisawa&layout=compact&show_icons=true&theme=midnight-purple" />
-</p>
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/yanagiii/posts.svg)](http://qiita.com/yanagiii)
-![](https://komarev.com/ghpvc/?username=KoichiYanagisawa)
-
 github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo
@@ -48,28 +36,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KoichiYanagisawa&theme=midnight-purple&show_icons=true&locale=en" alt="koichiyanagisawa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koichiyanagisawa&" alt="koichiyanagisawa" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
