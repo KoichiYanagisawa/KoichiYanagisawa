@@ -2,11 +2,6 @@
 - 👨‍💻 I am currently looking for a job.
 - 🌱 I am a first term student of Mr. [Kiyoto Yamaura's](https://github.com/kiyodori) Apprentice.
 
-### Connect with me:
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[twitter]: https://twitter.com/hoshihoshy
-
 <p align="left">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KoichiYanagisawa&theme=midnight-purple&show_icons=true" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoichiYanagisawa&layout=compact&show_icons=true&theme=midnight-purple" />
@@ -14,6 +9,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KoichiYanagisawa&theme=midnight-purple&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Connect with me:
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[twitter]: https://twitter.com/hoshihoshy
 <!--
 **KoichiYanagisawa/KoichiYanagisawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
