@@ -10,7 +10,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KoichiYanagisawa&theme=midnight-purple&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Connect with me:
-[<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill: #1DA1F2;" />][twitter]
+[<img align="left" alt="Twitter" width="40px" style="fill: #1DA1F2;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [twitter]: https://twitter.com/hoshihoshy
 <!--
