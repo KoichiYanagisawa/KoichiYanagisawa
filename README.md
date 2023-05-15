@@ -4,10 +4,8 @@
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [twitter]: https://twitter.com/hoshihoshy
-[facebook]: https://www.facebook.com/your-username
 
 <p align="left">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KoichiYanagisawa&theme=midnight-purple&show_icons=true" />
