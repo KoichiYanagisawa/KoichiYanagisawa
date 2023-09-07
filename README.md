@@ -3,7 +3,6 @@
 
 <h3 align="left">About me:</h3>
 
- - 👨‍💻 I am currently looking for a job.
  - 🌱 I am a first term student of Mr. [Kiyoto Yamaura's](https://github.com/kiyodori) Apprentice.
 
 <h3 align="left">Connect with me:</h3>
